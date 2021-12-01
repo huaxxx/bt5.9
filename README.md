@@ -7,9 +7,11 @@ centos安装脚本:
 yum install -y wget && wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/wangzhe12588/bt59happy/master/install-5.9-c.sh && sh install.sh
 
 ubuntu安装脚本:
+
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/wangzhe12588/bt59happy/master/install-ubuntu.sh && sudo bash install.sh
 
 debian安装脚本：
+
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/wangzhe12588/bt59happy/master/install-ubuntu.sh && bash install.sh
 
 如果 你是免费的 5.x 宝塔面板 可以使用脚本 升到最新的开心版 5.9.1 面板 或者 输入：

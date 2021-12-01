@@ -3,6 +3,7 @@
 使用 SSH 连接工具 连接到您的 Linux服务器后，根据系统执行相应命令开始安装（大约2分钟完成面板安装）：
 
 centos安装脚本:
+
 yum install -y wget && wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/wangzhe12588/bt59happy/master/install-5.9-c.sh && sh install.sh
 
 ubuntu安装脚本:
